@@ -1,0 +1,100 @@
+﻿@model IEnumerable<MongoDemo.Models.PersonModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Available Forms</h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div style="overflow-x:auto">
+    <div class="table-responsive" style="width:150%">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FullName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NickName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HomeAdrs)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HomePhone)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MobPhone)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HomeFax)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HomeEmail)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.BirthDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.SSN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PassportNo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DLNo)
+                    </th>
+                    <th>Details</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NickName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HomeAdrs)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HomePhone)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MobPhone)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HomeFax)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HomeEmail)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BirthDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SSN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PassportNo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DLNo)
+                        </td>
+                        <td>@Html.ActionLink("Details", "Details", "PersonInfo", new { @id = item.Id }, new { @class = "btn btn-default" })</td>
+                        <td>@Html.ActionLink("Edit", "Edit", "PersonInfo", new { @id = item.Id }, new { @class = "btn btn-default" })</td>
+                        <td>@Html.ActionLink("Delete", "Delete", "PersonInfo", new { @id = item.Id }, new { @class = "btn btn-default" })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,105 @@
+﻿@model MongoDemo.Models.PersonModel
+@{
+    ViewBag.Title = "Details";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Form Details</title>
+</head>
+<body>
+    <div class="container">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3>Form Details</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Full Name")
+                        @Html.DisplayFor(m => m.FullName, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+
+                        @Html.Label("Nick Name")
+                        @Html.DisplayFor(m => m.NickName, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Home Address")
+                        @Html.DisplayFor(m => m.HomeAdrs, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Home Phone")
+                        @Html.DisplayFor(m => m.HomePhone, new { @class = "form-control" })
+                    </div>
+                </div><br />
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Mobile Phone")
+                        @Html.DisplayFor(m => m.MobPhone, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Home Fax")
+                        @Html.DisplayFor(m => m.HomeFax, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Home Email")
+                        @Html.DisplayFor(m => m.HomeEmail, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("BirthDay")
+                        @Html.DisplayFor(m => m.BirthDate, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("SSN")
+                        @Html.DisplayFor(m => m.SSN, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Passport Number")
+                        @Html.DisplayFor(m => m.PassportNo, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.Label("Driver's license number")
+                        @Html.DisplayFor(m => m.DLNo, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.ActionLink("Back to Home Page", "Index", "PersonInfo", null, new { @class = "btn btn-warning" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

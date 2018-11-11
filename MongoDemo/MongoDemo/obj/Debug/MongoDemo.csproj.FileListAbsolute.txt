@@ -1,0 +1,390 @@
+D:\VS2015\MongoDemo\MongoDemo\obj\Debug\MongoDemo.csprojResolveAssemblyReference.cache
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\csc.exe
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\vbc.exe
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe
+D:\VS2015\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDemo.dll.config
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDemo.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDemo.pdb
+D:\VS2015\MongoDemo\MongoDemo\bin\Antlr3.Runtime.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\EntityFramework.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Bson.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Newtonsoft.Json.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Owin.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Helpers.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Mvc.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Optimization.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Razor.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\WebGrease.dll
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Bson.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Helpers.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Mvc.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Optimization.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.Razor.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Antlr3.Runtime.pdb
+D:\VS2015\MongoDemo\MongoDemo\bin\Newtonsoft.Json.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\EntityFramework.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VS2015\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS2015\MongoDemo\MongoDemo\obj\Debug\MongoDemo.dll
+D:\VS2015\MongoDemo\MongoDemo\obj\Debug\MongoDemo.pdb
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\csc.exe
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\vbc.exe
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDemo.dll.config
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDemo.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDemo.pdb
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Antlr3.Runtime.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\EntityFramework.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Bson.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Newtonsoft.Json.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Owin.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Helpers.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Mvc.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Optimization.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Razor.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\WebGrease.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Bson.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Helpers.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Mvc.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Optimization.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.Razor.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Antlr3.Runtime.pdb
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Newtonsoft.Json.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\EntityFramework.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\obj\Debug\MongoDemo.csprojResolveAssemblyReference.cache
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\obj\Debug\MongoDemo.dll
+D:\PROJECT\MONGODB\MongoDBProj\MongoDemo\MongoDemo\obj\Debug\MongoDemo.pdb
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\obj\Debug\MongoDemo.csprojResolveAssemblyReference.cache
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\obj\Debug\MongoDemo.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\obj\Debug\MongoDemo.pdb
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\csc.exe
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\vbc.exe
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDemo.dll.config
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDemo.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDemo.pdb
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Antlr3.Runtime.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\EntityFramework.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Bson.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Newtonsoft.Json.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Owin.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Helpers.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Mvc.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Optimization.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Razor.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\WebGrease.dll
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Bson.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Helpers.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Mvc.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Optimization.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.Razor.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Antlr3.Runtime.pdb
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Newtonsoft.Json.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\EntityFramework.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT\MONGODB\LATEST\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\csc.exe
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\vbc.exe
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.dll.config
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.pdb
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Antlr3.Runtime.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Bson.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Newtonsoft.Json.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Owin.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Helpers.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Mvc.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Optimization.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Razor.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\WebGrease.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Bson.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Helpers.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Mvc.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Optimization.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Razor.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Antlr3.Runtime.pdb
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Newtonsoft.Json.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.csprojResolveAssemblyReference.cache
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.dll
+D:\PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.pdb
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\csc.exe
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\vbc.exe
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.dll.config
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDemo.pdb
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Antlr3.Runtime.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Bson.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Newtonsoft.Json.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Owin.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Helpers.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Mvc.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Optimization.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Razor.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\WebGrease.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Bson.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Core.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\MongoDB.Driver.Legacy.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Helpers.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Mvc.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Optimization.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.Razor.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Deployment.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\System.Web.WebPages.Razor.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Antlr3.Runtime.pdb
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Newtonsoft.Json.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\EntityFramework.SqlServer.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.csprojResolveAssemblyReference.cache
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.dll
+D:\1. PERSONAL\JOB\PETRO IT\MongoDemo\MongoDemo\obj\Debug\MongoDemo.pdb

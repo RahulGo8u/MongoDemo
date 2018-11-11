@@ -1,0 +1,107 @@
+﻿@model MongoDemo.Models.PersonModel
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>    
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm())
+        {  <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Add Person Details</h4>
+            </div>
+            <div class="panel-body">
+                @if (TempData["Message"] != null)
+                {
+                    @TempData["Message"]
+                }
+                <div>
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                </div>
+                <div class="row">
+                    <span class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Full name*
+                        @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+                    </span>
+                </div>
+                <div class="row">
+                    <span class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Nick Name
+                        @Html.TextBoxFor(m => m.NickName, new { @class = "form-control" })
+                    </span>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Home Address*
+                        @Html.TextBoxFor(m => m.HomeAdrs, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Home Phone
+                        @Html.TextBoxFor(m => m.HomePhone, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Mobile or Cellular Phone*
+                        @Html.TextBoxFor(m => m.MobPhone, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Home fax
+                        @Html.TextBoxFor(m => m.HomeFax, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Home e-mail address*
+                        @Html.TextBoxFor(m => m.HomeEmail, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Birthday (MM/DD/YYYY)*
+                        @Html.TextBoxFor(m => m.BirthDate, "{0:MM-dd-yyyy}", new { @class = "form-control date", type = "date", id="dateFor" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        SSN
+                        @Html.TextBoxFor(m => m.SSN, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Passport number
+                        @Html.TextBoxFor(m => m.PassportNo, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        Driver's license number
+                        @Html.TextBoxFor(m => m.DLNo, new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        <input id="Submit1" class="btn btn-success" type="submit" value="Submit" />
+                    </div>
+                </div>
+                <br /><br /><br />
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-sm-6 col-lg-4">
+                        @Html.ActionLink("Back to Home Page", "Index", "PersonInfo", null, new { @class = "btn btn-warning" })
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</body>
+
+</html>
